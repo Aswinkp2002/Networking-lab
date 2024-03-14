@@ -8,5 +8,12 @@ else
 echo "$n is Odd number"
  fi
 
+*****
+Output
+mlm@mlm-OptiPlex-3020:~/Desktop/Asw$ chmod +x sh1.odd
+mlm@mlm-OptiPlex-3020:~/Desktop/Asw$ ./sh1.odd
+Enter the Number
+44
+44 is Even number
+mlm@mlm-OptiPlex-3020:~/Desktop/Asw$ 
 
-                                           out
